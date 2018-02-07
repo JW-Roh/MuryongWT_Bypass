@@ -1,5 +1,5 @@
-# school_watchtower_bypass
+# SchoolWT_Bypass
 
-bypass watchtower Program of "Muryong High School"
+Kill all Watchtower Process of "Muryong High School"
 
-Automatically
+Automatically killall process of WatchTower!
