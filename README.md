@@ -1,4 +1,4 @@
-# SchoolWT_Bypass
+# GetOUT_SchoolWT
 
 A "work in progress"Killall Watchtower Process of "Muryong High School"
 
