@@ -1,5 +1,8 @@
 # SchoolWT_Bypass
 
-Kill all Watchtower Process of "Muryong High School"
+A "work in progress"Killall Watchtower Process of "Muryong High School"
 
 Automatically killall process of WatchTower!
+
+NOTE:
+*Need to "Run as Administrator".
